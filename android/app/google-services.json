@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "752405564697",
+    "project_id": "instaclonetop",
+    "storage_bucket": "instaclonetop.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752405564697:android:efc357e5d52272fc4f4988",
+        "android_client_info": {
+          "package_name": "xyz.soratto.rivertop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaHztlnMCScRY045WXxspNJn2N_uPlar8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
